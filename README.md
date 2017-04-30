@@ -8,7 +8,7 @@
 
 ## Resources
 
-- [Course calendar \(classes, holidays, snacks\)](webcal://p53-calendars.icloud.com/published/2/ppU-0uuDcbghoGN_CLlM732wjo0BjHwyIm2F2FxOpkhf7BstfrBmU1KPhQuue0MipdWitfMjL1abMtX-PJtZteKsq9oMq9JNwJBMZ8SOlOc)
+- Course calendar (classes, holidays, snacks): <br>webcal://p53-calendars.icloud.com/published/2/ppU-0uuDcbghoGN_CLlM732wjo0BjHwyIm2F2FxOpkhf7BstfrBmU1KPhQuue0MipdWitfMjL1abMtX-PJtZteKsq9oMq9JNwJBMZ8SOlOc
 - [Exit ticket](https://bitly.com/JSD7exit)
 - [Snack signup](https://jsdsnacks.youcanbook.me)
 
