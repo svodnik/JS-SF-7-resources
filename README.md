@@ -18,7 +18,9 @@
 Includes all scheduled classes and holidays, as well as snack signups.
 To use:
 1. Copy the following calendar link:
-<br>webcal://p53-calendars.icloud.com/published/2/ppU-0uuDcbghoGN_CLlM732wjo0BjHwyIm2F2FxOpkhf7BstfrBmU1KPhQuue0MipdWitfMjL1abMtX-PJtZteKsq9oMq9JNwJBMZ8SOlOc
+
+    ```webcal://p53-calendars.icloud.com/published/2/ppU-0uuDcbghoGN_CLlM732wjo0BjHwyIm2F2FxOpkhf7BstfrBmU1KPhQuue0MipdWitfMjL1abMtX-PJtZteKsq9oMq9JNwJBMZ8SOlOc```
+
 2. In your calendar program, select the option to subscribe to a calendar, then paste this link as the calendar to subscribe to.
     - Google Calendar: Other Calendars (sidebar) > Add by URL
     - macOS Calendar: File > New Calendar Subscription
