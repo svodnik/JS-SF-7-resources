@@ -11,6 +11,15 @@
 - [Exit ticket](https://bitly.com/JSD7exit)
 - [Snack signup](https://jsdsnacks.youcanbook.me)
 
+
+---
+
+## Office Hours
+
+- Monday & Wednesday, 5:30pm - 6:30pm
+- Larissa will be in our classroom (#3) unless Front Lines is in the process of setting it up. If you don't see her, message her on Slack to find out where she is.
+- Other office hours available by appointment with Larissa or Sasha.
+
 ---
 
 ## Course calendar
