@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 12: Feedr lab
 
-## Homework (due Monday 3/27, which is 12 days from today)
+## Homework (due Monday 6/26, which is 12 days from today)
 
 Complete the Feedr project. 
 

@@ -2,4 +2,4 @@
 
 ## Homework 
 
-- Continue work on your final project (due in class Monday 4/10)
+- Continue work on your final project (due in class Monday 7/12)

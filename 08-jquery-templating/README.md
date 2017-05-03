@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 08: Intro to jQuery & templating
 
-## Homework (due Monday 3/6)
+## Homework (due Monday 6/5)
 
 * Redo 99 Bottles of Beer in the browser window using jQuery (see Class 07 for original instructions)
 * Complete exercise in `5_jquery_homework` folder (uses chaining, event delegation, and implicit iteration)

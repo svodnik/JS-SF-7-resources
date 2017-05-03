@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 15: Intro to CRUD and Firebase
 
-## Homework (due __Wednesday__ 3/29)
+## Homework (due __Wednesday__ 6/28)
 
 - Create a project outline for your final project
     - Describe the overall purpose of your app

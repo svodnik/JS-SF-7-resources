@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 14: The module pattern & this
 
-## Homework (due Monday 3/27)
+## Homework (due Monday 6/26)
 
 - `7-person-module` folder: Build a module that creates a person by following the steps in the `app.js` file.
 - Feedr project

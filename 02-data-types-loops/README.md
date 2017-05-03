@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 02: Data Types & Loops
 
-## Homework (due Monday 2/13)
+## Homework (due Monday 5/15)
 * 99 Bottles of Beer (`4-homework-99-bottles-of-beer` folder)
 
 ## Pre-reading for next class:

@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 09: Ajax & APIs
 
-## Homework (due Monday 3/13)
+## Homework (due Monday 6/12)
 
 - Finish Open Weather Map project (`3_jquery_ajax_exercise folder`)
     - Bonus items are optional (input boxes and Kelvin -> Fahrenheit conversion) 

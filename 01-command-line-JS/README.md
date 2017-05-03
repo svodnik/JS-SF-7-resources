@@ -1,5 +1,11 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 01: Command Line JavaScript
 
+## Homework (due Monday 5/8)
+
+* Complete all of the lessons and challenges in [CodeAcademy’s “JavaScript Fundamentals” track](https://www.codecademy.com/en/tracks/javascript-upgraded). This track consists of three lessons, the first two of which have a corresponding code challenge. The three lessons are as follows: Getting Started With Programming, Introduction to Functions in JS, and Introduction to ‘For’ Loops in JS.
+
+    Completing these lessons will give you your first taste of JavaScript and prepare you to hit the ground running next week. Don’t worry if you have questions on any of this stuff, as we’ll be reviewing all of it in class. (Note: Sometimes, when using CodeAcademy, you’ll see certain content that’s only available to users with “pro” accounts. Feel free to skip over this content, unless you already have a “pro” account.)
+
 ## Pre-reading for next class:
 
 * Eloquent JavaScript [Chapter One: Values, Types, and Operators](http://eloquentjavascript.net/01_values.html)

@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 07: Intro to the DOM
 
-## Homework (due Monday 3/6)
+## Homework (due Monday 5/29)
 
 * Madlibs (`5-madlibs` folder)
 * 99 Bottles of Beer in the browser window:
