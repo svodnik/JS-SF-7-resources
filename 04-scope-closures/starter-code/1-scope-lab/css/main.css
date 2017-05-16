@@ -1,0 +1,15 @@
+body {
+	font-family: "Raleway", sans-serif;
+	text-align: center;
+	-webkit-font-smoothing: antialiased;
+	font-weight: 700;
+}
+
+h1 {
+	text-transform: uppercase;
+}
+
+ul {
+	list-style: none;
+	padding-left: 0;
+}

@@ -3,6 +3,11 @@
 ## Homework (due Monday 5/22)
 * [Closures lab](starter-code/2-closures-lab) (started in class)
 
+## Prereading for next class
+* [Hubot Scripting](https://github.com/github/hubot/blob/master/docs/scripting.md)
+* [Hubot adapter for Slack](https://github.com/slackhq/hubot-slack)
+* [Slack API Documentation](https://api.slack.com/bot-users)
+
 ## Additional resources on today's topics:
 
 * [JavaScript Scoping and Hoisting](https://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html)
