@@ -1,19 +1,20 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 07: Intro to the DOM
 
-## Homework (due Monday 5/29)
+## NO CLASS NEXT MONDAY 5/29!
+
+## Homework (due Wednesday 5/31)
 
 * Madlibs (`5-madlibs` folder)
 * 99 Bottles of Beer in the browser window:
     - Remember the 99 Bottles of Beer assignment? For this assignment, you'll be creating a website that programatically 
-    displays the lyrics to that song.
+    displays the lyrics to that song in the browser window.
     - You'll need to create both an HTML file and a JavaScript file.
     - In your HTML file, you'll want to have an unordered list (`<ul>`) that contains all of your lyrics.
     - Each line of the song should appear inside of a list item (`<li>`) within that unordered list.
     - Your JavaScript file should programatically append each line of the song to the page--no hard-coding lyrics in HTML!
-    - Do this in vanilla JavaScript to get practice using those methods.
-    - Bonus: redo the exercise in jQuery!
 * BONUS homework: Dice (`6-dice folder`)
-    - Creating a page where every time the user hits the "Roll Dice" button, the screen randomly updates the two dice. 
+    - Creating a page where every time the user hits the "Roll Dice" button, the screen randomly updates the two dice to 
+    display an image of a die corresponding to the value rolled.
     - Specific instructions in the `js/app.js` folder
 
 ## Pre-reading for next class:
