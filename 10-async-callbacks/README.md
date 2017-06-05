@@ -5,6 +5,9 @@
 - Sign up for an account at [500px.com](https://500px.com/signup). We will use this service during our next class.
 
 ## OPTIONAL: Additional practice
+- Finish Open Weather Map project (`3_jquery_ajax_exercise folder`)
+    - Bonus items are optional (input boxes and Kelvin -> Fahrenheit conversion)
+
 - Exercise in `4_homework` folder of tonight’s files
     
     The `queueCreator()` function is supposted to help us order all of our guests upon arrival. However, if you run the code, you will see that every person in our queueList is given the same position.

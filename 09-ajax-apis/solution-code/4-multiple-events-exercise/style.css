@@ -1,0 +1,25 @@
+#removed {
+  display: none;
+}
+
+.cross-off {
+  color: blue;
+  cursor: pointer;
+}
+
+.delete {
+  color: red;
+  cursor: pointer;
+}
+
+.crossed-off {
+  text-decoration: line-through;
+}
+
+.inactive {
+  color: #ccc;
+}
+
+.deleted {
+  display: none;
+}

@@ -2,9 +2,7 @@
 
 ## Homework (due Monday 6/12)
 
-- Finish Open Weather Map project (`3_jquery_ajax_exercise folder`)
-    - Bonus items are optional (input boxes and Kelvin -> Fahrenheit conversion) 
-    - Add darksky.net as a second data source ([documentation at `https://darksky.net/dev/`](https://darksky.net/dev/)). How you integrate the new data into the web page is up to you — it can replace the temperature returned by Open Weather Map, you can show both forecasts, or you can create an interface that gives users a choice of which to view.
+- Complete exercise in `8_jquery_homework` folder (uses chaining, event delegation, and implicit iteration)
 
 ## Pre-reading for next class:
 
