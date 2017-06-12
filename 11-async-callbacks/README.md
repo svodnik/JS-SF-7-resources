@@ -1,14 +1,12 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 10: Asynchronous JavaScript & Callbacks
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 11: Asynchronous JavaScript & Callbacks
 
-## Homework (due Monday 5/12)
+## Homework (due WEDNESDAY 6/14)
 
 - Sign up for an account at [500px.com](https://500px.com/signup). We will use this service during our next class.
 
 ## OPTIONAL: Additional practice
-- Finish Open Weather Map project (`3_jquery_ajax_exercise folder`)
-    - Bonus items are optional (input boxes and Kelvin -> Fahrenheit conversion)
 
-- Exercise in `4_homework` folder of tonight’s files
+- Exercise in `4_puzzle` folder of tonight’s files
     
     The `queueCreator()` function is supposted to help us order all of our guests upon arrival. However, if you run the code, you will see that every person in our queueList is given the same position.
     Fix `queueCreator()` so that each guest is given her correct position in the list. (1, then 2, then 3)
