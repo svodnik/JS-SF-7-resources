@@ -6,4 +6,4 @@ function myFunction() {
 	inner();
 }
 
-new myFunction();
+myFunction();

@@ -3,7 +3,7 @@
 ## Homework (due Monday 6/26)
 
 - `7-person-module` folder: Build a module that creates a person by following the steps in the `app.js` file.
-- Feedr project
+- Feedr project (Due Wed 7/5, but get as much done this weekend as you can so you can start working on your final project next week!)
 
 ## Bonus Project (optional)
 
@@ -20,6 +20,8 @@
 
 ## Additional resource on today's topics:
 
+- [The Module Pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [Module pattern example (css-tricks.com)](https://css-tricks.com/how-do-you-structure-javascript-the-module-pattern-edition/)
 - [All this](bjorn.tipling.com/all-this)
 - [Gentle explanation of this in JavaScript](https://rainsoft.io/gentle-explanation-of-this-in-javascript/)
 - [&#127909; The basic module pattern (video)](https://www.youtube.com/watch?v=cQRKE5QIB6Q)

@@ -6,9 +6,6 @@
 
 2. Run the code, check the results against your predictions. If the results were different, explain why.
 
-3. Write a new statement that calls the `test()` function and returns `Aurelio De Rosa`.
-__Hint__: You need to manipulate the context in which you're calling the `test()` function.
-
 */
 
 var fullName = 'John Doe';
