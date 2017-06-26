@@ -27,6 +27,7 @@ $(document).ready(function() {
         var messagesReference = messageAppReference.ref('messages');
 
         // use the push method to save data to the messages
+        // https://firebase.google.com/docs/reference/js/firebase.database.Reference#push
         messagesReference.push({
             message: message,
             votes: 0
@@ -40,6 +41,7 @@ function getPosts() {
     // retrieve messages data when .on() initially executes
     // and when its data updates
     // https://firebase.google.com/docs/reference/js/firebase.database.Reference
+    // https://firebase.google.com/docs/database/web/read-and-write#listen_for_value_events
     messageAppReference.ref('messages').on('value', function (results) {
       var $messageBoard = $('.message-board');
       var messages = [];

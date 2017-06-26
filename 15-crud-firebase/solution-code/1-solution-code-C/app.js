@@ -27,6 +27,7 @@ $(document).ready(function() {
         var messagesReference = messageAppReference.ref('messages');
 
         // use the push method to save data to the messages
+        // https://firebase.google.com/docs/reference/js/firebase.database.Reference#push
         messagesReference.push({
             message: message,
             votes: 0
