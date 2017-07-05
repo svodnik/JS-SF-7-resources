@@ -1,0 +1,16 @@
+h1 {
+    padding: 0.2em;
+}
+#into nav ul {
+    margin: 0;
+    padding: 0;
+}
+nav ul li {
+    display: inline-block;
+    list-style-type: none;
+    padding: 1em;
+    background-color: #F3F3F6;
+}
+nav ul li:hover {
+    background-color: #E4E6EB
+}

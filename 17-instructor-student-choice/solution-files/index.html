@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>All About React</title>
+    <script src="https://unpkg.com/react@latest/dist/react.js"></script>
+    <script src="https://unpkg.com/react-dom@latest/dist/react-dom.js"></script>
+    <script src="https://unpkg.com/babel-standalone@6.15.0/babel.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div id="menu">
+      <!-- This element's contents will be replaced with our Menu component. -->
+    </div>
+    <div id="header">
+      <!-- This element's contents will be replaced with our Header component. -->
+    </div>
+
+    <script type="text/babel">
+      // A React Component
+      var state = {
+        title: 'All About React',
+        menu: ['Home', 'Components', 'JSX']
+      }
+
+      const headerTarget = document.querySelector('#header');
+      const menuTarget = document.querySelector('#menu');
+      ReactDOM.render(<Header {...state} />, headerTarget);
+      ReactDOM.render(<Menu {...state} />, menuTarget);
+
+      function Header(props) {
+        return (
+          <nav>
+            <h1>{props.title}</h1>
+          </nav>
+        )
+      }
+      function Menu(props) {
+        return (
+          <nav>
+            <ul>
+              {props.menu.map(function(item, index) {
+                return <li key={index}>{item}</li>
+              })}
+            </ul>
+          </nav>
+        )
+      }
+    </script>
+  </body>
+</html>
